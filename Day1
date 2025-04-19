@@ -1,0 +1,32 @@
+# Day 1 Log
+
+## 📅 Date  
+Saturday, April 19, 2025
+
+## 🎯 Goal of the Day  
+- Set up the Unity development environment
+
+## ✅ What I Did  
+- [x] Installed Unity Hub  
+- [x] Installed Unity Editor (2022.3 LTS)  
+- [x] Installed Visual Studio (updated)  
+- [x] Created first 2D project  
+- [x] Watched Unity basic tutorials  
+- [x] Created a Notion folder for study logs  
+- [x] Created GitHub account and repository
+
+## 📘 What I Learned  
+1. **Hierarchy**: Shows a list of GameObjects in the Scene (used to create and organize objects)  
+2. **Scene**: Workspace to place and arrange GameObjects (visual editor view)  
+3. **Inspector**: Panel to view and edit a GameObject's Components (such as color, size, position)  
+4. **GameObject**: An empty container; gains functionality by adding Components  
+5. **Duplicate**: Clone a GameObject to create an identical copy
+
+## 💭 Reflections & Difficulties  
+The terminology in Unity is unfamiliar and a bit challenging,  
+but by experimenting directly with the tools, I began to understand how things are structured.
+
+Passive learning through just watching videos doesn’t work well for me.  
+I need to **touch, try, and build things myself** to truly understand how they work.
+
+---
