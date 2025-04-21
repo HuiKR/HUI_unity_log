@@ -1,0 +1,45 @@
+Day 2
+Date
+Monday, April 21, 2025
+
+🎯 Goal of the Day
+Understand the basics of Unity’s 2D physics using Rigidbody2D
+
+Observe how objects fall and collide
+
+Record today’s progress and findings in Notion
+
+✅ Tasks Done
+ Reviewed key concepts from Day 1
+
+ Practiced using Hierarchy, Scene, and Inspector panels
+
+ Created a “falling block” that drops and collides with the floor
+
+ Moved the object left and right to explore position manipulation
+
+📚 What I Learned
+Every GameObject acts as a container. Child objects can be structured hierarchically.
+(e.g., A Player object can have a Body object, which itself can have Arm/Leg child objects)
+
+For simpler games like platformers, one Body object is often enough.
+
+For two objects to collide, both need a Collider,
+and at least one of them needs a Rigidbody2D component.
+
+To rotate a square object in 2D view, you rotate it around the Z-axis, not X or Y.
+
+Tip: Think of drawing on paper and turning it using your fingers as pivot points.
+
+Linear Drag is like air resistance — it slows down motion, acting like a brake.
+
+Gravity in Unity is a force vector applied as (0, -9.81) by default.
+
+Setting Gravity Scale to 2 makes it (0, -19.62), meaning the object falls faster.
+
+💬 Reflections & Challenges
+Since I’m not making a full game yet, this is the perfect time to experiment freely.
+
+I need to get familiar with how physics values interact — like combining Gravity and Drag.
+
+I’ve found a good direction, so I’ll stay consistent, not rush, and take it step by step.
